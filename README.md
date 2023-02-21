@@ -1,1 +1,1 @@
-KNN Classifier and KNN Regression from scratch!
+Linear and logistic regression homework branch
